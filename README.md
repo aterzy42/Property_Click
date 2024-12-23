@@ -1,3 +1,3 @@
-Predicting Clicks on Real Estate Ads Using Poisson Regression
+***Predicting Clicks on Real Estate Ads Using Poisson Regression***
 
 This project aims to predict the number of clicks on real estate ads based on various features such as the type of property, location, price, and other relevant factors. The model uses Poisson Regression, a powerful statistical tool for modeling count data, to predict the expected number of clicks on a given real estate ad. This project demonstrates the application of Poisson regression in a real-world context of digital marketing and real estate analytics.
